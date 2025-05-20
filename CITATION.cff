@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the following metadata."
+title: "ExampleProject"
+version: "1.0.0"
+doi: 10.1234/exampleproject
+date-released: 2024-05-01
+authors:
+  - family-names: Doe
+    given-names: Jane
+    affiliation: Example University
+    orcid: https://orcid.org/0000-0002-1825-0097
+  - family-names: Smith
+    given-names: John
+    affiliation: Example Institute
+    email: john.smith@example.org
+identifiers:
+  - type: doi
+    value: 10.1234/exampleproject
+repository-code: https://github.com/exampleuser/exampleproject
+license: MIT
+keywords:
+  - codemeta
+  - metadata
+  - software citation
+  - example
+type: software
+url: https://github.com/exampleuser/exampleproject
